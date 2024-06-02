@@ -4,6 +4,6 @@ A simple landing page to provide information about my passion for cooking. Built
  
 </p>
 
- <a href="https://monajstha.github.io/landing_page/">Click here for a Live Preview.</a>
+ <a href="https://monajstha.github.io/manoj_cooks/">Click here for a Live Preview.</a>
 
 <p><strong>Note:</strong> All the images used in this website are generated from Microsoft's 'Designer Image Creator' AI tool.</p>
